@@ -17,3 +17,4 @@
 
 ### Тест случаи според критериумот  Every Branch 
 
+![Screenshot_1](https://user-images.githubusercontent.com/62071112/84546817-71435780-ad02-11ea-90d1-c6d2404563ce.png)
