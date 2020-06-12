@@ -8,6 +8,7 @@
 
 ###  Control Flow Graph
 
+![CFGpodobro (1)](https://user-images.githubusercontent.com/62071112/84546641-0abe3980-ad02-11ea-87cb-b62478fa5df8.png)
 
 
 ### Цикломатска комплексност
